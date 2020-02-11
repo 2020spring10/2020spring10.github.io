@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-size: 20px;
+	background-color: #9A6D2B;
+}
+h2 {
+	color: #247026;
+}
+ul {
+	color: #834E4F;
+	line-height: 75px;
+}
+p {
+	color: #8C393A;
+}
+.title {
+	color: #2E3F85;
+	padding: Set Shorthand;
+	font-size: 47px
+}
+#aboutme {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-weight: 100;
+}
+h1 {
+	border: medium dashed #BB4143;
+	padding: 20px;
+	width: 4in;
+	text-align: left;
+}
+	

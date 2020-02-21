@@ -4,7 +4,7 @@ h1 {
 	background: #20366E;
 	border: dashed;
 	border-color: #942628;
-	margin-left: 730px;
+	margin-left: 800px;
 	margin-right: 681px;
 	width: 365px;
 	text-align: center;
@@ -18,7 +18,7 @@ h3 {
 	border-color: #20366E;
 	width: 450px;
 	text-align: center;
-	margin-left: 680px;
+	margin-left: 750px;
 	margin-right: 631px;
 	font-size: 20px;
 }
@@ -38,3 +38,6 @@ footer {
 	text-decoration-line: underline;
 	float: right;
 }
+
+body {background:#967D7D}
+

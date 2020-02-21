@@ -1,4 +1,40 @@
 @charset "UTF-8";
 /* CSS Document */
-h1 {background: #20366E; border: dotted; border-color: #942628;}
-
+h1 {
+	background: #20366E;
+	border: dashed;
+	border-color: #942628;
+	margin-left: 681px;
+	margin-right: 681px;
+	width: 365px;
+	text-align: center;
+	padding-bottom: 20px;
+	font-weight: 800
+}
+h3 {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	background: #942628;
+	border: ridge;
+	border-color: #20366E;
+	width: 450px;
+	text-align: center;
+	margin-left: 631px;
+	margin-right: 631px;
+	font-size: 20px;
+}
+h2 {
+	color: #387D8B;
+	border: dotted;
+	border-color: #9D353B;
+}
+p {
+	color: #103C65;
+	border: inset;
+}
+footer {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #336017;
+	text-underline-position: below;
+	text-decoration-line: underline;
+	float: right;
+}

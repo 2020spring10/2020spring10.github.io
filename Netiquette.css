@@ -34,7 +34,6 @@ p {
 footer {
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #336017;
-	text-underline-position: below;
 	text-decoration-line: underline;
 	float: right;
 }

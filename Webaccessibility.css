@@ -3,6 +3,7 @@
 h2 {
 	border: dashed;
 	border-color: #1745A8;
+	
 }
 body {
 	background: #1165A4;
@@ -17,6 +18,7 @@ a:link {
 	color: #420C6A;
 	border:double;
 	border-color: #450890;
+	color: #F7F7F7;
 }
 a:visited {
 	color: #580E0F
@@ -24,4 +26,6 @@ a:visited {
 a:hover {
 	font-size: 50px;
 }
-
+p {
+	color: #A60327
+}

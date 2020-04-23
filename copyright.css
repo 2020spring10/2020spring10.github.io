@@ -20,7 +20,7 @@ a:visited {
   }
 
 a:hover {
-  font-size: 50 px;
+  color: pink;
 }
 
 a {

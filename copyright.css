@@ -1,0 +1,36 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+  border: dashed;
+  border-color: blue;
+  text-align: center;
+  }
+
+body {
+  background-color: orange;
+  font-family: Times, "Times New Roman";
+  }
+
+h2 {
+  color: green;
+}
+
+a:visited {
+  color: purple;
+  }
+
+a: hover {
+  font-size: 50 px;
+}
+
+a {
+  color: green;
+}
+
+h3 {
+  color: red;
+}
+
+ul {
+  color: blue;
+}

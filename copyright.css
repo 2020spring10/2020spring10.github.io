@@ -20,11 +20,7 @@ a:visited {
   }
 
 a:hover {
-  font-size: 40px;
-}
-
-a {
-  color: green;
+  background-color: green;
 }
 
 h3 {

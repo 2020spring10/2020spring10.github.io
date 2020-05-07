@@ -43,6 +43,7 @@ table {
 caption {
   font-size: 35px;
   text-align: center;
+  color:#34eb99;
 }
 
 td {
@@ -52,6 +53,7 @@ td {
   border-style: dashed;
   border-color: #eb3456;
   border-width: 5px;
+  color: #34eb99;
 }
 
 th {
@@ -61,4 +63,5 @@ th {
   padding: 20px;
   border-color: #8634eb;
   border-width: 5px;
+  color: #8634eb;
 }

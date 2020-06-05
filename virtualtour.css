@@ -1,0 +1,134 @@
+body {
+background-color: #ebc634;
+}
+
+h1 {
+	color: #343deb;
+	text-align: center;
+	font-family: New Century Schoolbook, TeX Gyre Schola, serif		;
+	padding-top: 5px;	
+}
+
+h3 {
+	color: #343deb;
+	padding-left: 5px;	
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: center;
+}
+
+p {
+	color: #343deb;
+	padding-left: 7px;
+  font-family: Noto Sans, sans-serif;
+	text-align: center;
+}
+
+footer {
+	color: #343deb;
+  font-family: Noto Sans, sans-serif;
+}
+
+a:link {color: #29bbd9}
+a:hover {font-size: 60px}
+
+.page1 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+.page2 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+.page3 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+.page4 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+.page5 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+.page6 {
+  color: #328c19;
+  font-family: "Arial Black", Gadget, sans-serif;
+  text-align: center;
+}
+
+table {
+  width: 600px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+.nav {
+  background-color: #343deb;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  border-style: solid;
+  border-color: #ebc634;
+  border-width: 5px;
+  padding-right: 13px;
+  padding-left: 13px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#container1 {
+  background-color: #29bbd9;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container2 {
+  background-color: #1088eb;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container3 {
+  background-color: #0b3ab3;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container4 {
+  background-color: #0c2970;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container5 {
+  background-color: #091d4f;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}
+
+#container6 {
+  background-color: #070c24;
+  width: 900px;
+	margin: auto;
+	padding-bottom: 5px;
+}

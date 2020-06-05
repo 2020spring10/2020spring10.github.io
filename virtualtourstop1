@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Stop #1</title>
+<link href="https://2020spring19.github.io/virtualtour.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="container2">
+
+<h1>First Stop: Italy</h1>
+<table>
+      <tr>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtour.html">Home</a></p></td>
+	<td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop1.html">Epipelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop2.html">Mesopelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop3.html">Bathypelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop4.html">Abyssopelagic Zone</a></p></td>
+        <td class="nav"><p><a class="page2" href="https://2020spring19.github.io/virtualtourstop5.html">Hadalpelagic Zone</a></p></td>
+      </tr>
+    </table>
+    
+ 
+<p>You have reached the first stop of your virtual tour! Read below to learn about Italy.</p>
+<p>Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s "David" and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.
+</p>
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/383px-Flag_of_Italy.svg.png" alt="Photo Of Italy" width="325" height="235"/>	
